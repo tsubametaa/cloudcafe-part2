@@ -1,0 +1,8 @@
+@import 'tailwindcss';
+
+:root {
+  --bg: #FDFBF7;
+  --primary: #00e5ff;
+  --secondary: #cfd8dc;
+  --text: #b0bec5;
+}
