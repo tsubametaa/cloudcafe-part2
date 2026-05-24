@@ -124,5 +124,3 @@ The website is fully responsive with breakpoints:
 © 2024 sushi cibaduyut. All rights reserved.
 
 ---
-
-Made with ☕ and ❤️
